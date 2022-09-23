@@ -1,0 +1,31 @@
+{
+  "version": "0.1.0",
+  "description": "eslint for me",
+  "keywords": [
+    "style guide",
+    "lint",
+    "airbnb",
+    "es6",
+    "es2015",
+    "es2016",
+    "es2017",
+    "es2018"
+  ],
+  "license": "MIT",
+  "author": {
+    "name": "Taehun Lim"
+  },
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/taehunlim/eslint"
+  },
+  "engines": {
+    "node": ">=0.10.3 <0.12",
+    "npm": "~1.0.20"
+  },
+  "devDependencies": {
+    "markdownlint": "^0.26.2",
+    "markdownlint-cli": "^0.32.2"
+  }
+}
