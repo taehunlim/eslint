@@ -1,4 +1,5 @@
 {
+  "name": "eslint-config-lim",
   "version": "0.1.0",
   "description": "eslint for me",
   "keywords": [
